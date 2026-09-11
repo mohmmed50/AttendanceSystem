@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Build & packaging output
+/build/
+/dist/
+/installer_output/
+
+# Runtime data (contains real student names & IDs - never commit)
+/data/
+/backup/
+/logs/
+*.xlsx
+*.xls
+
+# Local per-machine settings (camera index, session count)
+settings.local.json
+
+# Editor / tool folders
+.claude/
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python envs
+venv/
+.venv/
+env/
